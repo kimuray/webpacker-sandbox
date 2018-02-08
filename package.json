@@ -1,0 +1,16 @@
+{
+  "name": "webpacker-sandbox",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^3.2.1",
+    "bootstrap": "4.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9",
+    "rails-ujs": "^5.1.4",
+    "tether": "^1.4.3"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^2.11.1"
+  }
+}
